@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+}
+body
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+body {
+    min-height: 100vh;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+    background-color: black;
+    margin: 0px;
+}
+
+a:not([class]) {
+    text-decoration-skip-ink: auto;
+}
+img {
+    max-width: 100%;
+    display: block;
+}
+article > * + * {
+    margin-top: 1em;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/*aside bar left  */
+.aside {
+height: 200vh;
+width: 150px;
+background-color:burlywood;
+}
+.logo p {
+  /* Style for "SDS" */
+height: 25px;
+color: #4cb480;
+font-family: "Sawarabi Gothic";
+font-size: 32px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 31.32px;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SDS" */
+font-style: normal;
+letter-spacing: 0.64px;
+line-height: normal;
+padding-top: 53px;
+}
+    
+/* aside logo line */
+.logo > p::after {
+  content: "";
+  background-color: #4cb480;
+  width: 25px;
+  height: 4px;
+  display: block;
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+  border-radius: 2px;
+}
+
+
+.barmenu ul  {
+  list-style: none;
+  height: 300px;
+  border: oldlace solid 5px;
+  margin-top: 50px;
+}
+
+li{
+  text-transform: uppercase;
+  text-align: center;
+
+  
+}
+
+
+
+  
+  
+
+
+
+
+ 
+
+
+
+
+
+
