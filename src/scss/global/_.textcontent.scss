@@ -1,0 +1,58 @@
+        /* TEXT CONTENT  */
+.textcontent {
+    height: 600;
+    background-color: #353a3f;
+    margin-left: 150px;
+}
+.suffix1 {
+    padding-top: 142px;
+    padding-left: 324px;
+}
+.textcontent .suffix2 {
+    position: absolute ;
+    padding-top: 142px; ;
+    padding-left: 529px ;
+}
+.textcontent h4 {
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 28px;
+    font-weight: 200;
+    font-style: italic;
+    line-height: 38.02px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    padding-top: 28px;
+    padding-left: 325px;
+}	
+.textcontent p {
+    color: #8c9198;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    line-height: normal;
+    padding-left: 325px;
+    padding-top: 78px;
+    padding-bottom: 124px;
+}
+.textcontent > p::before {
+    content: " ";
+    color: #8c9198;
+    width: 60px;
+    height: 5px;
+    border-radius: 2px;
+    border-radius: 2px;
+    background-color: #8c9198;		
+    display: block;
+    position: absolute;
+    margin-top: -16px;
+}
+.textcontent span {
+    color: #8c9198;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    line-height: normal;
+}

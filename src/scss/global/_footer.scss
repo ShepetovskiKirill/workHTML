@@ -1,0 +1,62 @@
+/* FOOTER */
+.footer {
+    margin-left: 150px;
+    background-color: #353a3f;
+    display: flex;
+}
+.footer_menu{
+    padding-top: 80px;
+    width: 75%;
+}
+.footer_menu_block > li {
+    display: inline;
+    padding-top: 80px;
+    padding-left: 120px;
+    
+    
+}
+.footer_menu_block li > a{
+    padding-top: 80px;
+    opacity: 0.5;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 31.2px;
+    text-align: left;
+    text-transform: uppercase;
+    
+}
+.footer_text {
+    padding-left: 120px;
+    opacity: 0.3;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 30px;
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 90px;
+}
+.footer_icon{
+padding-top: 90px;
+    
+
+}
+.icon1 {
+height: 30px;
+padding-right: 33px;
+}
+.icon2 {
+height: 30px;
+padding-right: 30px;
+}
+.icon3{
+height: 30px;
+padding-right: 121px;
+}

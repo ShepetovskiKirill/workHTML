@@ -1,0 +1,67 @@
+/* SERVICES */
+.services {
+    background-color: white;
+    margin-left: 150px;
+    display: flex;
+}
+.banner {
+    width: 363px;
+    height: 450px;
+    border-radius: 6px;
+    background-color: #f6f6f6;
+    margin-left: 270px;
+    margin-top: 120px;
+    padding-bottom: 120px;
+    position: relative;
+}
+.icon {
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.title {
+    color: #353a3f;
+    font-family: 'Poppins';
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 1.5px;
+    line-height: normal;
+    padding-top: 51px;
+}
+.textservis {
+    color: #5a5f65;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.45px;
+    line-height: normal;
+    padding: 32px 62px 35px 62px;
+}
+.buttomservis{
+    width: 160px;
+    height: 55px;
+    border-radius: 28px;
+    background-color: #4cb480;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.9px;
+    line-height: normal;
+    position: relative;
+    margin-left: 102px;
+    margin-right: 101px;
+    margin-top: 61px;
+}
