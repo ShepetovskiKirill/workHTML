@@ -41,7 +41,7 @@ img{vertical-align: top;}
 	font-weight: 500;
 	background-color: black;
 }
-			/* SIDEBAR */
+/* SIDEBAR */
 aside {
 width: 150px;
 height: 100%;
@@ -104,7 +104,7 @@ position: fixed;
 	margin: auto;
     padding-top: 49px;
 }
-			/* HEADER */
+/* HEADER */
 header {
 	margin-left: 150px;
 	background-color: #353a3f;
@@ -176,16 +176,14 @@ h1::before {
     margin-bottom: 199px;
     margin-top: 49px;
 }
-			/* SERVICES */
+/* SERVICES */
 .services {
 	background-color: white;
 	margin-left: 150px;
-	
 }
 .services_baner {
 	display: flex;
     margin-left: 86px;
-
 }
 .banner {
 	border-radius: 6px;
@@ -193,7 +191,6 @@ h1::before {
 	margin: 120px 30px;
 	margin-top: 120px;
 	position: relative;
-	
 }
 .icon {
 	height: 50px;
@@ -215,8 +212,6 @@ h1::before {
     line-height: normal;
     padding-top: 102px;
     padding-left: 6px;
-	
-
 }
 .textservis {
     color: #5a5f65;
@@ -229,7 +224,6 @@ h1::before {
     letter-spacing: 2.5px;
     line-height: 24px;
     padding: 28px 60px;
-   
 }
 .buttomservis{
     width: 160px;
@@ -247,11 +241,8 @@ h1::before {
     line-height: normal;
     position: relative;
     margin: 2px 102px 60px 102px;
-
-
-
 }
-		 	/* TEXT CONTENT  */
+/* Textcontect  */
 .textcontent {
 	height: 600;
 	background-color: #353a3f;
@@ -260,13 +251,11 @@ h1::before {
 .suffix1 {
     padding-top: 143px;
     padding-left: 324px;
-
 }
 .textcontent .suffix2 {
 	position: absolute;
     padding-top: 150px;
     padding-left: 160px;
-
 }
 .textcontent h4 {
     color: #ffffff;
@@ -312,13 +301,10 @@ h1::before {
 	letter-spacing: 0.5px;
 	line-height: normal;
 }
-            /* Blog */
+/* Blog */
 .blog {
 	margin-left: 150px;
-	
-	
 }
-/* H3 */
 .blog__heading {
     color: #353a3f;
     font-family: 'Poppins';
@@ -347,8 +333,6 @@ h1::before {
 .post-preview {
 display: flex;
 }
-
-/* img */
 .post-preview__img {
     padding-left: 120px;
     padding-bottom: 61px;
@@ -357,13 +341,9 @@ display: flex;
 .blog__content:last-child{
     padding-bottom: 56px;
 }
-
-/* h3 p buttom */
 .post-preview__deck {
 padding-left: 80px;
-
 }
-/* h3 */
 .post-preview__title {
 	color: #353a3f;
     font-family: 'Poppins';
@@ -376,7 +356,6 @@ padding-left: 80px;
     padding-bottom: 16px;
     padding-top: 35px;
 }
-/* p */
 .post-preview__text {
 font-size: 18px;
 font-family: 'Poppins';
@@ -386,11 +365,8 @@ line-height: 30px;
 text-align: left;
 font-style: normal;
 letter-spacing: 0.45px;
-
-
-	
 }
-/* button */
+
 .post-preview__action {
     width: 176px;
     height: 55px;
@@ -407,7 +383,7 @@ letter-spacing: 0.45px;
     line-height: normal;
     padding-top: 20px;
 }
-				/* FOOTER */
+/* FOOTER */
 .footer {
     margin-left: 150px;
     background-color: #353a3f;
@@ -421,8 +397,6 @@ letter-spacing: 0.45px;
 }
 .footer_menu_block > li {
     display: inline-block;
-
-	
 }
 .footer_menu_block li > a{
 	padding-top: 80px;
@@ -440,7 +414,6 @@ letter-spacing: 0.45px;
     padding-left: 25px;
     padding-top: 82px;
     padding-left: 48px;
-	
 }
 .footer_text {
 	    opacity: 0.3;
@@ -455,13 +428,11 @@ letter-spacing: 0.45px;
     padding-left: 43px;
     padding-top: 13px;
     padding-bottom: 75px;
-	
 }
 .footer_icon{
 padding-top: 90px;
 width: 25%;
 padding-left: 173px;	
-
 }
 .icon1 {
 height: 30px;
@@ -473,7 +444,6 @@ padding-right: 30px;
 }
 .icon3{
 height: 30px;
-
 }
 
 
