@@ -412,17 +412,16 @@ letter-spacing: 0.45px;
     margin-left: 150px;
     background-color: #353a3f;
     display: flex;
-    width: 100%;mas
+    width: 100%;
 }
 .footer_menu{
-	padding-top: 80px;
-	width: 75%;
+    width: 75%;
+    padding-left: 83px;
+    padding-top: 71px;
 }
 .footer_menu_block > li {
-	display: inline;
-	padding-top: 80px;
-	padding-left: 120px;
-	
+    display: inline-block;
+
 	
 }
 .footer_menu_block li > a{
@@ -432,30 +431,36 @@ letter-spacing: 0.45px;
 	font-family: 'Poppins';
 	font-size: 18px;
 	font-weight: 400;
-	font-style: normal;
+	font-style: bold;
 	letter-spacing: normal;
 	line-height: 31.2px;
 	text-align: left;
-	text-transform: uppercase;
+    text-transform: uppercase;
+    width: 75%;
+    padding-left: 25px;
+    padding-top: 82px;
+    padding-left: 48px;
 	
 }
 .footer_text {
-	padding-left: 120px;
-	opacity: 0.3;
-	color: #ffffff;
-	font-family: 'Poppins';
-	font-size: 16px;
-	font-weight: 300;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: 30px;
-	text-align: left;
-	padding-top: 25px;
-	padding-bottom: 90px;
+	    opacity: 0.3;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 30px;
+    text-align: left;
+    padding-left: 43px;
+    padding-top: 13px;
+    padding-bottom: 75px;
+	
 }
 .footer_icon{
 padding-top: 90px;
-	
+width: 25%;
+padding-left: 173px;	
 
 }
 .icon1 {
@@ -468,7 +473,7 @@ padding-right: 30px;
 }
 .icon3{
 height: 30px;
-padding-right: 121px;
+
 }
 
 
